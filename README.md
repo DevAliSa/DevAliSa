@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ‏Ali Al Dahaniem</h1>
-- 🔭 I’m currently working on something cool!
+<h1 align="Right">Hi 👋, I'm ‏Ali Al Dahaniem</h1>
+🔭 I’m currently working on something cool!
 
-- 📫 How to reach me **alidahniem@gmail.com**
+📫 How to reach me **alidahniem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
