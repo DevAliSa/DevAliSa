@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ‏Ali Al Dahaniem</h1>
-- 🔭 I’m currently working on **something cool!**
+- 🔭 I’m currently working on something cool!
 
 - 📫 How to reach me **alidahniem@gmail.com**
 
